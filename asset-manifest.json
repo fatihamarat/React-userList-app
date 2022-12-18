@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-userList-app/static/css/main.aa1aab01.css",
+    "main.js": "/React-userList-app/static/js/main.59105945.js",
+    "static/js/787.bce1b407.chunk.js": "/React-userList-app/static/js/787.bce1b407.chunk.js",
+    "index.html": "/React-userList-app/index.html",
+    "main.aa1aab01.css.map": "/React-userList-app/static/css/main.aa1aab01.css.map",
+    "main.59105945.js.map": "/React-userList-app/static/js/main.59105945.js.map",
+    "787.bce1b407.chunk.js.map": "/React-userList-app/static/js/787.bce1b407.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa1aab01.css",
+    "static/js/main.59105945.js"
+  ]
+}
